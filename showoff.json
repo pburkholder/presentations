@@ -1,8 +1,8 @@
 { 
-  "name": "DevOpsDC", 
-  "description" : "DevOpsDC Meetup - May 2012",
+  "name": "Chef Meetup", 
+  "description" : "Chef Meetup - March 2013",
   "author" : "Nathen Harvey",
-  "twitter" : "@DevOpsDC",
+  "twitter" : "&nbsp;",
   "templates" : {
     "default" : "style_guide.tpl"
   },

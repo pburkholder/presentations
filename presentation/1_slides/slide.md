@@ -1,19 +1,14 @@
 !SLIDE 
-# Creating the Next Generation of Techies #
+# Chef Meetup #
 
-* 6:30 - 7:00 - Meet, greet, and eat
-* 7:00 - 7:15 - Welcome
-* 7:15 - 7:55 - Ops School
-* 7:55 - 8:10 - Lightning Talks
-* 8:10 - 8:50 - Theo
+* 6:30 - 6:50 - Meet, greet, and eat
+* 6:50 - 7:10 - Welcome
+* 7:10 - 8:00 - Instant Infrastructure
+* 8:00 - 8:30 - Networking, etc.
+* 8:30 - ??   - Owl &amp; Thistle?
 
 !SLIDE
 # Sponsors - Thanks! #
-
-## ![Serena](../images/serenalogo.jpg)
- 
-
-## ![CustomInk](../images/inky-logotype-expanded.png)
 
 ## ![Opscode](../images/Opscode.png)
 

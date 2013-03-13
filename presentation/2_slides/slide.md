@@ -1,23 +1,24 @@
 !SLIDE
-# Follow @DevOpsDC #
-![@devopsdc](../images/devopsdc_on_twitter.jpg)
+# Cascadia IT
+
+![Cascadia IT](../images/Cascadia.jpg)
+
+* Friday & Saturday
+* Hotel Deca
 
 !SLIDE
-# #ChefConf 2013
+# Seattle DevOps Meetup Group
 
-![#ChefConf 2013](../images/chefconf.jpg)
-
-http://chefconf.opscode.com
-
-Discount Code:  OPSCODE-MEETUP
+* http://www.meetup.com/Seattle-DevOps-Meetup-Group/
 
 !SLIDE
-# LOPSA-East
-![LOPSA-East](../images/LOPSA-East.jpg)
+# Chef Training in Seattle
 
-http://lopsa-east.org/2013/
-
-Discount Code:  baltimoreDClopsaeast13
+* Chef Introductory Workshop for Windows
+  * March 26
+* 2 Day Chef Fundamentals
+  * April 3
+* MEETUP - saves you 10%
 
 !SLIDE
 # Food Fight! #
@@ -30,41 +31,25 @@ Discount Code:  baltimoreDClopsaeast13
 ![Foodfight Show](../images/foodfight_bw.png)
 
 !SLIDE
-# Chef Introductory Workshop
-
-* One-day intro workshop for Chef
-* Next Tuesday, Feb 27 9:00-5:00
-* MEETUP - saves you 10%
-* Only 4 seats left
-
-!SLIDE
-# Meetup Groups
-
-* Arlington Ruby
-* Big Data DC
-* Cloud DC
-* Crabby Admins
-* DC Agile Software Testing Group
-
-!SLIDE
-# Meetup Groups
-
-* DC Continuous Integration, Delivery, & Deployment Group
-* DC Ruby User Group
-* DevOpsDC
-* LOPSA DC
-* NOVA MySQL
-
-!SLIDE
-# Meetup Groups
-
-* TechBreakfast
-* Washington DC Google Developer Group
-
-!SLIDE
 # Introductions & Announcements #
 
 * Hiring?
 * Looking for work?
 * Attending or speaking at a conference?
 * Something we all should know?
+
+!SLIDE
+#Awesome Chefs
+
+![Awesome Chef Awards](../images/awesomechef.jpg)
+
+!SLIDE
+# #ChefConf 2013
+
+![#ChefConf 2013](../images/chefconf.jpg)
+
+<a href="http://chefconf.opscode.com">http://chefconf.opscode.com</a>
+
+Discount Code:  OPSCODE-MEETUP  
+Save 15%
+
